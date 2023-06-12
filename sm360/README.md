@@ -77,6 +77,7 @@ Possible Future Improvements
 
 * [Spring Security](https://spring.io/projects/spring-security) to security for authentication and access control
 * [Lombok](https://projectlombok.org/) To avoid a repetitive code of getters and setters making a cleaner code easier to understand.
+* [ModelMapper](https://modelmapper.org/) Provides a drop-in solution when the source and destination objects are similar to each other.
 * [CQRS (Command Query Responsibility Segregation)](https://martinfowler.com/bliki/CQRS.html), and event sourcing, if necessary.
 
 
