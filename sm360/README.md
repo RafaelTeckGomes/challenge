@@ -11,6 +11,8 @@ Microservice with a RESTful API using [Domain-Driven Design (DDD)](https://learn
 Having identified the application's main domain, models were created using entities, value objects, aggregates created through mappers and using repositories for data persistence.
 The implementation of domain services to encapsulate the business logic that does not naturally fit into a single entity and the transfer of information and decoupling between [DTO (Data Transfer Objects)](https://martinfowler.com/eaaCatalog/dataTransferObject.html) layers makes this architecture proposal more cohesive for a robust and effective evolution of this application .
 
+<img src="https://i.stack.imgur.com/BfNin.jpg" width=60% height=80%>
+
 
 This project uses SPRINGBOOT, JPA, IN_MEMORY DATABASE (H2 DB), MOCKITO for testing, SWAGGER to generate endpoints documentation and an initial setup for DOCKER.
 
